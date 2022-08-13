@@ -1,0 +1,21 @@
+{
+  "sizes": {
+    "margin": 170,
+    "node_radius": 5,
+    "stroke": 4,
+    "arrow": 14
+  },
+  "colors": {
+    "node_stroke": "#bc56d1",
+    "back": "#FFFFFF",
+    "traction": "#6a83fc",
+    "compression": "#fb877c",
+    "original": "#D5DBF8",
+    "load": "#62d156",
+    "reaction": "#2d1757"
+  },
+  "font": {
+    "family": "sans-serif",
+    "size": 20
+  }
+}
